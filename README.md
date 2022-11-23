@@ -16,13 +16,14 @@ Life
 
 Social
 ------
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guglielmocaliendosilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guglielmocaliendosilva" height="30" width="40" /></a>
 <a href="https://fb.com/guillermo.caliendo.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guillermo.caliendo.54" height="30" width="40" /></a>
 <a href="https://instagram.com/guglielmocaliendos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guglielmocaliendos" height="30" width="40" /></a>
 </p>
+
+<br>
 
 Knowlege
 --------
