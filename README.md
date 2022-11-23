@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="guglielmocaliendo" />
+<img align="right" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="guglielmocaliendo" />
 
 Life
 ----
